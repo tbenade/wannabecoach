@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Welcome to Wannabecoach
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hopefully the resource you need and want to kick off your basketball coaching journey.
 
-## Commands
+## Goal of Wannabecoach
+Deliver a simple and digestible resource for volunteer youth basketball coaches. Target audience is time poor mums, dads, siblings who want to see their friends or loved ones learn enjoy and possibly love basketball. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Motivation
+I was a day zero coach once. Standing in front of a group of enthusiastic athletes and their parents terrified, overwhelmed but desperate to do the athletes and the great game justice.
 
-## Project layout
+I hope our content has found you before or near that first session and we can take turn some of the unknowns into excitement and confidence. if you haven't had the pleasure of coaching before, you are in for a wild ride that can be fantastically rewarding.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Coaches are givers by default, so we already know who you are and you are awesome!
+
